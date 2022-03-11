@@ -17,7 +17,12 @@
     - 6 Kişilik bir ekiptik ben sunucu tarafında ve ekip lideri olarak çalıştım. Sunucuyu Amazon web Service üzerinden Microsoft Server 2019'un Iss özelliğini kullandık ve               kullanılabilir şekilde yayınladık.
     - Kaynak kodu: https://github.com/secure-cloud-project/SourceCode.Sandik
 ### Skills
-  * <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 <!--
 **melihcicek0/melihcicek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
