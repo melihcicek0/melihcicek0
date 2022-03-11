@@ -1,5 +1,5 @@
 # Hi there, Merhaba 👋
-  I'm Melih Çiçek from Turkey. I'm studying software engineer student Fırat university. 
+  I'm Melih Çiçek from Turkey. I'm studying software engineer student Fırat university. I'm improving myself on web technology and data structures. I have developed c# form application and basic unity games in the past. I follows blockchain and web3 developments and i want to work these technologys in the future.
 
   Ben Melih Çiçek Fırat üniversitesinde yazılım mühendisliği okuyorum.Şu an Kendimi web teknolojilerinde ve veri yapılarında geliştiriyorum. Bu zamana kadar c# form uygulamaları     ve unity de basit oyun projeleri gerçekleştirdim. Blockchain ve web3 gelişmelerini takip ediyor ve gelecekte bu konular üzerinde çalışmak istiyorum.
 ## Experience
