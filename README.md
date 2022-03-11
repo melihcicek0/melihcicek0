@@ -1,12 +1,12 @@
 # Hi there, Merhaba 👋
-  I'm Melih Çiçek from Turkey. I'm studying software engineer student Fırat university. I'm improving myself on web technology and data structures. I have developed c# form application and basic unity games in the past. I follows blockchain and web3 developments and i want to work these technologys in the future.
+  I'm Melih Çiçek from Turkey. I'm studying software engineer at Fırat university. I'm improving myself on web technology and data structures. I have developed a c# form application and basic unity games in the past. I follow blockchain and web3 developments and i want to work these technologies in the future.
 
   Ben Melih Çiçek Fırat üniversitesinde yazılım mühendisliği okuyorum.Şu an Kendimi web teknolojilerinde ve veri yapılarında geliştiriyorum. Bu zamana kadar c# form uygulamaları     ve unity de basit oyun projeleri gerçekleştirdim. Blockchain ve web3 gelişmelerini takip ediyor ve gelecekte bu konular üzerinde çalışmak istiyorum.
 ## Experience
   * Unity Endless Runner and Escape the knife Games
   * c# form application (Stationary automation)
-    - Basic product sale,product return and adding stock and subtracting stock with sql.
-  * Security Cloude Storage
+    - Basic product sale, product return and adding stock and subtracting stock with sql.
+  * Security Cloud Storage
       - We were a team of 6 people. I worked on the server side and as a product owner. We used the ISS feature in Microsoft Server 2019 in Amazon Web Service and published it             there.
       - Source cod: https://github.com/secure-cloud-project/SourceCode.Sandik
 ## Tecrübe     
